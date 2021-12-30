@@ -1,11 +1,5 @@
 package com.norbertzambori;
 
-import com.pageobjects.HTMLEditor.editor;
-import com.pageobjects.MyStore.home_page;
-import com.pageobjects.MyStore.registration_form;
-import com.pageobjects.MyStore.user_page;
-import com.utils.DriverFactory;
-import com.utils.TestTools;
 import com.utils.logger;
 
 import org.apache.http.HttpEntity;
